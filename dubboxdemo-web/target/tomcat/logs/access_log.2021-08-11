@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [11/Aug/2021:14:56:56 +0800] "GET /user/showName.do HTTP/1.1" 200 7 http-bio-8082-exec-2 6249
+0:0:0:0:0:0:0:1 - - [11/Aug/2021:14:56:56 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8082-exec-3 5
